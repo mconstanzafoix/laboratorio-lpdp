@@ -1,0 +1,40 @@
+---
+identificador: "Ley-21719-version-diferida-2026-12-01/EX-101"
+enunciado: "El responsable puede tratar datos biométricos con consentimiento expreso e información específica previa, o sin consentimiento en las causales del artículo 16 bis inciso segundo."
+destinatario: "Responsable de datos"
+modalidad: "Permiso condicionado"
+conducta_exigida: "Tratar datos biométricos bajo causal habilitante y proporcionar información específica cuando se usa consentimiento."
+condicion_de_aplicacion: "(Consentimiento expreso del art. 16 inc. 1 Y entrega de información específica a a d) O causal sin consentimiento del art. 16 bis inc. 2."
+plazo: "Información al titular antes del tratamiento basado en consentimiento; sin cantidad de días."
+disposicion_de_anclaje: "Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 16 ter reproducido de Ley 19.628, inc. 2, Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-16-ter/inciso-02.md, principal: consentimiento e información; Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 16 ter reproducido de Ley 19.628, inc. 3, Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-16-ter/inciso-03.md, alternativa sin consentimiento; Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 16 ter reproducido de Ley 19.628, inc. 1, Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-16-ter/inciso-01.md, definición de dato biométrico; Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 16 ter reproducido de Ley 19.628, lit. a, Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-16-ter/letra-a.md, información específica requerida; Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 16 ter reproducido de Ley 19.628, lit. b, Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-16-ter/letra-b.md, información específica requerida; Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 16 ter reproducido de Ley 19.628, lit. c, Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-16-ter/letra-c.md, información específica requerida; Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 16 ter reproducido de Ley 19.628, lit. d, Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-16-ter/letra-d.md, información específica requerida; Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 16 bis reproducido de Ley 19.628, inc. 2, Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-16-bis/inciso-02.md, causales excepcionales remitidas; Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 16 reproducido de Ley 19.628, inc. 1, Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-16/inciso-01.md, consentimiento expreso requerido"
+cita_textual_de_respaldo: "Art. 16 ter reproducido, incs. 2–3: «Sólo podrán tratarse estos datos ... siempre que el responsable proporcione al titular la siguiente información específica»; «podrán tratarse sin consentimiento sólo en los casos ...»."
+estado_de_determinacion: "Indeterminada"
+enumeracion_contenida: "a) identificación del sistema biométrico usado; b) finalidad específica de utilización; c) período de utilización; d) forma de ejercer derechos del titular"
+caracter: "Condicional"
+sancion: ""
+---
+
+## Fundamento textual e interpretación
+
+El inciso segundo permite tratar datos biométricos con consentimiento expreso del artículo 16 y entrega de información específica. El tercero admite la vía excepcional sin consentimiento en los casos del artículo 16 bis inciso segundo. Son alternativas habilitantes del mismo tratamiento, no dos posiciones autónomas. La definición del inciso primero delimita la categoría de datos y las letras a a d fijan la información de la rama consentida.
+
+## Alcance de la regla
+
+Se exige consentimiento expreso **Y** toda la información a a d antes de tratar, **O** alguna causal excepcional sin consentimiento del artículo 16 bis inciso segundo, con sus condiciones propias. La definición comprende identificación única mediante tratamiento técnico de rasgos físicos, fisiológicos o conductuales. La aplicación de causales excepcionales y de información específica requiere valoración: `Indeterminada`; carácter `Condicional`.
+
+## Anclajes y función
+
+- Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 16 ter reproducido de Ley 19.628, inc. 2: [principal: consentimiento e información](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-16-ter/inciso-02.md).
+- Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 16 ter reproducido de Ley 19.628, inc. 3: [alternativa sin consentimiento](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-16-ter/inciso-03.md).
+- Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 16 ter reproducido de Ley 19.628, inc. 1: [definición de dato biométrico](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-16-ter/inciso-01.md).
+- Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 16 ter reproducido de Ley 19.628, lit. a: [información específica requerida](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-16-ter/letra-a.md).
+- Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 16 ter reproducido de Ley 19.628, lit. b: [información específica requerida](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-16-ter/letra-b.md).
+- Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 16 ter reproducido de Ley 19.628, lit. c: [información específica requerida](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-16-ter/letra-c.md).
+- Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 16 ter reproducido de Ley 19.628, lit. d: [información específica requerida](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-16-ter/letra-d.md).
+- Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 16 bis reproducido de Ley 19.628, inc. 2: [causales excepcionales remitidas](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-16-bis/inciso-02.md).
+
+- Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 16 reproducido de Ley 19.628, inc. 1: [consentimiento expreso requerido](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-16/inciso-01.md).
+
+## Límites del análisis
+
+`sancion` permanece vacía: cotejados los artículos 33 a 35 y el régimen especial del artículo 44 de esta Fuente, la ficha no documenta un vínculo individual suficiente con una tipificación concreta para asignar grado y multa. El vacío no equivale a `0 No tipificada`.

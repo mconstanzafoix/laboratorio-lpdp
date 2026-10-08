@@ -1,0 +1,32 @@
+---
+identificador: "Art. 17, inc. 2, frag. 1, frag. 1"
+fuente: "Ley 19.628 consolidada, vigencia diferida desde 01-DIC-2026"
+localizacion_y_version: "PDF primario, pág. 23; vigencia diferida desde 01-DIC-2026"
+tipo_de_norma: "Regulativa"
+clasificacion_normativa_deontica: "Permiso condicionado"
+control_ingreso: "pdfplumber, columna normativa x=65–445 pt, pág. 23; literal, orden y localizador cotejados; conforme"
+remisiones: "Ninguna expresa"
+---
+
+# Art. 17, inc. 2, frag. 1, frag. 1
+
+## Texto literal (bloque espejo)
+
+> También podrán comunicarse aquellas otras obligaciones de dinero que determine el Presidente de la República mediante decreto supremo,
+
+## Análisis breve
+
+La comunicación de otras obligaciones dinerarias depende de su determinación por decreto supremo presidencial y de los soportes exigidos a continuación.
+
+## Comprobación
+
+La secuencia literal de esta hoja se localizó en la pág. 23 del PDF primario y en su posición dentro del artículo completo. Al concatenar las hojas de la unidad madre, se reproduce su literal sin cambiar palabras ni puntuación; solo se normalizan espacios y saltos de maquetación. No se detectó una duda de texto en este corte.
+
+
+## Tipo de norma
+
+Regulativa: el marcador expreso «podrán comunicarse» muestra la función de esta hoja en el artículo.
+
+## Clasificación deóntica
+
+La fuerza Permiso condicionado se apoya en «podrán comunicarse».

@@ -1,0 +1,11 @@
+# Resultado de destilación — Artículo 1° bis
+
+Fuente y versión: Ley 19.628 consolidada desde 01-DIC-2026.
+
+| Disposición | Resultado de destilación | Exigencias originadas | Exigencias apoyadas y función | Motivo breve |
+| --- | --- | --- | --- | --- |
+| [Art. 1 bis, inc. 1](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-01-bis/inciso-01.md) | Examinada con Exigencias | — | [Ley-19628-consolidada-desde-2026-12-01/EX-001](../../Exigencias/EX-001-respeto-derechos-libertades.md) (apoyo: ámbito territorial) | Introduce los supuestos alternativos de aplicación territorial. |
+| [Art. 1 bis, inc. 1, lit. a](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-01-bis/inciso-01-letra-a.md) | Examinada con Exigencias | — | [Ley-19628-consolidada-desde-2026-12-01/EX-001](../../Exigencias/EX-001-respeto-derechos-libertades.md) (apoyo: supuesto territorial a) | Aplica la ley por establecimiento o constitución nacional del responsable o mandatario. |
+| [Art. 1 bis, inc. 1, lit. b](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-01-bis/inciso-01-letra-b.md) | Examinada con Exigencias | — | [Ley-19628-consolidada-desde-2026-12-01/EX-001](../../Exigencias/EX-001-respeto-derechos-libertades.md) (apoyo: supuesto territorial b) | Aplica la ley al mandatario que trata por cuenta de responsable establecido o constituido en Chile. |
+| [Art. 1 bis, inc. 1, lit. c](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-01-bis/inciso-01-letra-c.md) | Examinada con Exigencias | — | [Ley-19628-consolidada-desde-2026-12-01/EX-001](../../Exigencias/EX-001-respeto-derechos-libertades.md) (apoyo: supuesto territorial c) | Aplica la ley a oferta de bienes o servicios o monitoreo de titulares en Chile bajo las condiciones literales. |
+| [Art. 1 bis, inc. 2](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-01-bis/inciso-02.md) | Examinada con Exigencias | — | [Ley-19628-consolidada-desde-2026-12-01/EX-001](../../Exigencias/EX-001-respeto-derechos-libertades.md) (apoyo: supuesto adicional) | Aplica la ley al responsable extranjero sujeto a legislación nacional por contrato o derecho internacional. |

@@ -1,0 +1,72 @@
+{
+  "originales_sin_cambios": [
+    {
+      "ruta": "Fuentes-primarias/Ley-19628-consolidada-desde-2026-12-01/LEY-19628_28-AGO-1999 modificada con la Ley 21.719.pdf",
+      "coincide_sha256": true
+    },
+    {
+      "ruta": "Fuentes-primarias/Ley-21719-2024/Ley-21719_13-DIC-2024.pdf",
+      "coincide_sha256": true
+    },
+    {
+      "ruta": "Fuentes-primarias/Decreto-662-2026/Decreto-662_09-SEP-2026.pdf",
+      "coincide_sha256": true
+    }
+  ],
+  "fuentes": [
+    {
+      "carpeta": "Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09",
+      "markdown": 151,
+      "articulo_md": 21,
+      "entregables": {
+        "FUENTE.md": true,
+        "ARBOL.md": true,
+        "INFORME-FRAGMENTACION.md": true
+      },
+      "estados_arbol": {
+        "completo": 179,
+        "parcial": 0,
+        "pendiente": 0
+      },
+      "enlaces_rotos": [],
+      "rutas_del_arbol_inexistentes": [],
+      "archivos_fuera_del_arbol": []
+    },
+    {
+      "carpeta": "Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01",
+      "markdown": 717,
+      "articulo_md": 86,
+      "entregables": {
+        "FUENTE.md": true,
+        "ARBOL.md": true,
+        "INFORME-FRAGMENTACION.md": true
+      },
+      "estados_arbol": {
+        "completo": 714,
+        "parcial": 0,
+        "pendiente": 0
+      },
+      "enlaces_rotos": [],
+      "rutas_del_arbol_inexistentes": [],
+      "archivos_fuera_del_arbol": []
+    },
+    {
+      "carpeta": "Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01",
+      "markdown": 715,
+      "articulo_md": 90,
+      "entregables": {
+        "FUENTE.md": true,
+        "ARBOL.md": true,
+        "INFORME-FRAGMENTACION.md": true
+      },
+      "estados_arbol": {
+        "completo": 714,
+        "parcial": 0,
+        "pendiente": 0
+      },
+      "enlaces_rotos": [],
+      "rutas_del_arbol_inexistentes": [],
+      "archivos_fuera_del_arbol": []
+    }
+  ]
+}

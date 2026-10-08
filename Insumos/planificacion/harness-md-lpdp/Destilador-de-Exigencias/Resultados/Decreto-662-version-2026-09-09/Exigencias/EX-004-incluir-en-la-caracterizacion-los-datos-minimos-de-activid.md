@@ -1,0 +1,42 @@
+---
+identificador: "Decreto-662-version-2026-09-09/EX-004"
+enunciado: "La caracterización de actividades de tratamiento debe contener al menos los datos de los numerales i a xi."
+destinatario: "Responsable de datos"
+modalidad: "Obligación"
+conducta_exigida: "incluir en la caracterización los datos mínimos de actividades de tratamiento"
+condicion_de_aplicacion: "Si incorpora la caracterización al programa"
+plazo: ""
+disposicion_de_anclaje: "Decreto 662, versión 09-SEP-2026, Art. 3, inc. 1, lit. d, frag. 2, PDF primario, pág. 3, versión única desde 09-SEP-2026, Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-03/letra-d-fragmento-2.md, principal; Decreto 662, versión 09-SEP-2026, Art. 3, inc. 1, lit. d, num. i, PDF primario, pág. 3, versión única desde 09-SEP-2026, Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-03/letra-d-numeral-i.md, dato mínimo de caracterización; Decreto 662, versión 09-SEP-2026, Art. 3, inc. 1, lit. d, num. ii, PDF primario, pág. 3, versión única desde 09-SEP-2026, Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-03/letra-d-numeral-ii.md, dato mínimo de caracterización; Decreto 662, versión 09-SEP-2026, Art. 3, inc. 1, lit. d, num. iii, PDF primario, pág. 3, versión única desde 09-SEP-2026, Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-03/letra-d-numeral-iii.md, dato mínimo de caracterización; Decreto 662, versión 09-SEP-2026, Art. 3, inc. 1, lit. d, num. iv, PDF primario, pág. 3, versión única desde 09-SEP-2026, Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-03/letra-d-numeral-iv.md, dato mínimo de caracterización; Decreto 662, versión 09-SEP-2026, Art. 3, inc. 1, lit. d, num. v, PDF primario, pág. 3, versión única desde 09-SEP-2026, Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-03/letra-d-numeral-v.md, dato mínimo de caracterización; Decreto 662, versión 09-SEP-2026, Art. 3, inc. 1, lit. d, num. vi, PDF primario, pág. 3, versión única desde 09-SEP-2026, Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-03/letra-d-numeral-vi.md, dato mínimo de caracterización; Decreto 662, versión 09-SEP-2026, Art. 3, inc. 1, lit. d, num. vii, PDF primario, pág. 3, versión única desde 09-SEP-2026, Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-03/letra-d-numeral-vii.md, dato mínimo de caracterización; Decreto 662, versión 09-SEP-2026, Art. 3, inc. 1, lit. d, num. viii, PDF primario, pág. 3, versión única desde 09-SEP-2026, Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-03/letra-d-numeral-viii.md, dato mínimo de caracterización; Decreto 662, versión 09-SEP-2026, Art. 3, inc. 1, lit. d, num. ix, PDF primario, pág. 3, versión única desde 09-SEP-2026, Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-03/letra-d-numeral-ix.md, dato mínimo de caracterización; Decreto 662, versión 09-SEP-2026, Art. 3, inc. 1, lit. d, num. x, PDF primario, pág. 3, versión única desde 09-SEP-2026, Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-03/letra-d-numeral-x.md, dato mínimo de caracterización; Decreto 662, versión 09-SEP-2026, Art. 3, inc. 1, lit. d, num. xi, frag. 1, PDF primario, pág. 3, versión única desde 09-SEP-2026, Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-03/letra-d-numeral-xi-fragmento-1.md, dato mínimo de caracterización"
+cita_textual_de_respaldo: "Art. 3, inc. 1, lit. d, frag. 2: La caracterización de actividades de tratamiento deberá contener, a lo menos, la siguiente información:"
+estado_de_determinacion: "Determinada"
+enumeracion_contenida: ""
+caracter: "Condicional"
+sancion: ""
+---
+
+## Fundamento textual e interpretación
+
+El Art. 3, inc. 1, lit. d, frag. 2 dice «La caracterización de actividades de tratamiento deberá contener, a lo menos, la siguiente información:». El deber es un solo contenido mínimo de la caracterización, no once obligaciones independientes: los numerales i a xi precisan datos que se incorporan a un mismo instrumento. El responsable es quien trata y caracteriza los datos dentro de su programa.
+
+## Alcance de la regla
+
+Deben constar tipo de datos, territorio, bases, titulares, fines, origen, base de licitud, terceros receptores, transferencias, supresión y decisiones automatizadas. A lo menos indica mínimo abierto y los once numerales operan acumulativamente. El carácter condicional sigue de realizar la caracterización en el programa. No hay plazo expreso. Determinada se refiere a la lista de datos; las remisiones legales delimitan términos que pueden exigir cotejo adicional.
+
+## Anclajes y función
+
+- [Art. 3, inc. 1, lit. d, frag. 2](../../../../Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-03/letra-d-fragmento-2.md) — Decreto 662, versión 09-SEP-2026, PDF primario, pág. 3, versión única desde 09-SEP-2026; principal.
+- [Art. 3, inc. 1, lit. d, num. i](../../../../Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-03/letra-d-numeral-i.md) — Decreto 662, versión 09-SEP-2026, PDF primario, pág. 3, versión única desde 09-SEP-2026; dato mínimo de caracterización.
+- [Art. 3, inc. 1, lit. d, num. ii](../../../../Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-03/letra-d-numeral-ii.md) — Decreto 662, versión 09-SEP-2026, PDF primario, pág. 3, versión única desde 09-SEP-2026; dato mínimo de caracterización.
+- [Art. 3, inc. 1, lit. d, num. iii](../../../../Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-03/letra-d-numeral-iii.md) — Decreto 662, versión 09-SEP-2026, PDF primario, pág. 3, versión única desde 09-SEP-2026; dato mínimo de caracterización.
+- [Art. 3, inc. 1, lit. d, num. iv](../../../../Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-03/letra-d-numeral-iv.md) — Decreto 662, versión 09-SEP-2026, PDF primario, pág. 3, versión única desde 09-SEP-2026; dato mínimo de caracterización.
+- [Art. 3, inc. 1, lit. d, num. v](../../../../Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-03/letra-d-numeral-v.md) — Decreto 662, versión 09-SEP-2026, PDF primario, pág. 3, versión única desde 09-SEP-2026; dato mínimo de caracterización.
+- [Art. 3, inc. 1, lit. d, num. vi](../../../../Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-03/letra-d-numeral-vi.md) — Decreto 662, versión 09-SEP-2026, PDF primario, pág. 3, versión única desde 09-SEP-2026; dato mínimo de caracterización.
+- [Art. 3, inc. 1, lit. d, num. vii](../../../../Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-03/letra-d-numeral-vii.md) — Decreto 662, versión 09-SEP-2026, PDF primario, pág. 3, versión única desde 09-SEP-2026; dato mínimo de caracterización.
+- [Art. 3, inc. 1, lit. d, num. viii](../../../../Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-03/letra-d-numeral-viii.md) — Decreto 662, versión 09-SEP-2026, PDF primario, pág. 3, versión única desde 09-SEP-2026; dato mínimo de caracterización.
+- [Art. 3, inc. 1, lit. d, num. ix](../../../../Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-03/letra-d-numeral-ix.md) — Decreto 662, versión 09-SEP-2026, PDF primario, pág. 3, versión única desde 09-SEP-2026; dato mínimo de caracterización.
+- [Art. 3, inc. 1, lit. d, num. x](../../../../Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-03/letra-d-numeral-x.md) — Decreto 662, versión 09-SEP-2026, PDF primario, pág. 3, versión única desde 09-SEP-2026; dato mínimo de caracterización.
+- [Art. 3, inc. 1, lit. d, num. xi, frag. 1](../../../../Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-03/letra-d-numeral-xi-fragmento-1.md) — Decreto 662, versión 09-SEP-2026, PDF primario, pág. 3, versión única desde 09-SEP-2026; dato mínimo de caracterización.
+
+## Límites del análisis
+
+La calificación sancionadora queda pendiente de cotejo fundado con el régimen de la Ley N° 19.628 y las remisiones pertinentes. El campo vacío no equivale a 0 No tipificada. El cotejo pendiente puede modificar la calificación normativa de la ficha, sin prejuzgar una sanción aplicada. Las normas externas citadas se identifican como contexto; no se presentan como anclajes no comprobados. Para base de licitud, ámbito territorial y transferencias deben leerse los arts. 13 letra d), 1° bis y 27 de la Ley N° 19.628 antes de una aplicación concreta.

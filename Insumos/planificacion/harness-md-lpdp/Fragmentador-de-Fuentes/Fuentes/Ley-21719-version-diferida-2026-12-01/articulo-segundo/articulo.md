@@ -1,0 +1,29 @@
+---
+identificador: "Art. segundo"
+fuente: "Ley 21.719 modificatoria, vigencia diferida desde 01-12-2026 (PDF BCN, última modificación impresa Ley 21.806, 05-02-2026)"
+localizacion_y_version: "Fuentes-primarias/Ley-21719-2024/Ley-21719_13-DIC-2024.pdf, pág. 53; vigencia diferida desde 01-12-2026"
+tipo_de_norma: "Constitutiva"
+clasificacion_normativa_deontica: "No aplica — norma no regulativa"
+control_ingreso: "PDF primario, columna normativa, pág. 53; literal y localizador cotejados: conforme"
+remisiones: "artículo 33; ley N° 20.285"
+---
+
+# Art. segundo
+
+- **Contexto:** véase el árbol de esta Fuente.
+
+## Texto literal (bloque espejo)
+
+> Artículo segundo.- Suprímese el literal m) del artículo 33 del artículo primero de la ley N° 20.285, sobre acceso a la información pública.
+
+## Análisis breve
+Suprime una letra concreta de la Ley 20.285: el literal m) del artículo 33 situado en su artículo primero. Es un mandato modificatorio propio de la Ley 21.719 y no debe confundirse con las supresiones que el artículo primero hace en la Ley 19.628.
+
+## Comprobación
+Se cotejó esta unidad contra el PDF primario en la(s) página(s) 53: palabras, puntuación, comillas y localizador coinciden tras normalizar sólo espacios y saltos de maquetación. Se comprobó su posición en la secuencia completa del artículo y su enlace de contexto. No queda duda de cotejo textual en esta unidad.
+
+## Tipo de norma
+Constitutiva: «Suprímese» es el marcador expreso de instrucción que modifica el texto de la ley identificada.
+
+## Clasificación deóntica
+No aplica: el tipo asignado es Constitutiva y este campo se reserva a normas regulativas.

@@ -1,0 +1,811 @@
+[
+  {
+    "source": "Fuentes-primarias/Ley-19628-consolidada-desde-2026-12-01/LEY-19628_28-AGO-1999 modificada con la Ley 21.719.pdf",
+    "sha256": "ba9c5cb34fdecf2d76e4b8b060a7a3d5da7b1173b049fc5644d5d98ab9cf18b5",
+    "pages": 57,
+    "article_heading_candidates": [
+      {
+        "page": 1,
+        "text": "Artículo 1°.- Objeto y ámbito de aplicación. La"
+      },
+      {
+        "page": 1,
+        "text": "Artículo 1° bis.- Ámbito de aplicación territorial."
+      },
+      {
+        "page": 2,
+        "text": "Artículo 2°.- Definiciones. Para los efectos de esta"
+      },
+      {
+        "page": 4,
+        "text": "Artículo 3°.- Principios. El tratamiento de los datos"
+      },
+      {
+        "page": 6,
+        "text": "Artículo 4º.- Derechos del titular de datos. Toda"
+      },
+      {
+        "page": 6,
+        "text": "Artículo 5º.- Derecho de acceso. El titular de datos"
+      },
+      {
+        "page": 6,
+        "text": "Artículo 6º.- Derecho de rectificación. El titular de"
+      },
+      {
+        "page": 7,
+        "text": "Artículo 7°.- Derecho de supresión. El titular de"
+      },
+      {
+        "page": 7,
+        "text": "Artículo 8°.- Derecho de Oposición. El titular de"
+      },
+      {
+        "page": 8,
+        "text": "Artículo 8° bis.- Decisiones individuales"
+      },
+      {
+        "page": 8,
+        "text": "Artículo 8° ter.- Derecho de bloqueo del tratamiento."
+      },
+      {
+        "page": 8,
+        "text": "Artículo 9º.- Derecho a la portabilidad de los datos"
+      },
+      {
+        "page": 9,
+        "text": "Artículo 10.- Forma y medios de ejercer los derechos"
+      },
+      {
+        "page": 10,
+        "text": "Artículo 11.- Procedimiento ante el responsable de"
+      },
+      {
+        "page": 11,
+        "text": "Artículo 12.- Regla general del tratamiento de datos."
+      },
+      {
+        "page": 12,
+        "text": "Artículo 13.- Otras fuentes de licitud del tratamiento"
+      },
+      {
+        "page": 12,
+        "text": "Artículo 14.- Obligaciones del responsable de datos. El"
+      },
+      {
+        "page": 13,
+        "text": "Artículo 14 bis.- Deber de secreto o confidencialidad."
+      },
+      {
+        "page": 13,
+        "text": "Artículo 14 ter.- Deber de información y"
+      },
+      {
+        "page": 14,
+        "text": "Artículo 14 quáter.- Deber de protección desde el"
+      },
+      {
+        "page": 15,
+        "text": "Artículo 14 quinquies.- Deber de adoptar medidas de"
+      },
+      {
+        "page": 15,
+        "text": "Artículo 14 sexies.- Deber de reportar las"
+      },
+      {
+        "page": 16,
+        "text": "Artículo 14 septies.- Diferenciación de estándares de"
+      },
+      {
+        "page": 16,
+        "text": "Artículo 15.- Cesión de datos personales. Los datos"
+      },
+      {
+        "page": 17,
+        "text": "Artículo 15 bis.- Tratamiento de datos a través de un"
+      },
+      {
+        "page": 18,
+        "text": "Artículo 15 ter.- Evaluación de impacto en protección"
+      },
+      {
+        "page": 18,
+        "text": "Artículo 16.- Regla general para el tratamiento de"
+      },
+      {
+        "page": 20,
+        "text": "Artículo 16 bis.- Datos personales sensibles relativos"
+      },
+      {
+        "page": 21,
+        "text": "Artículo 16 ter.- Datos personales biométricos. Son"
+      },
+      {
+        "page": 21,
+        "text": "Artículo 16 quáter.- Datos personales relativos a los"
+      },
+      {
+        "page": 22,
+        "text": "Artículo 16 quinquies.- Datos personales con fines"
+      },
+      {
+        "page": 22,
+        "text": "Artículo 16 sexies.- Datos de geolocalización. El"
+      },
+      {
+        "page": 22,
+        "text": "Artículo 17.- Regla general del tratamiento de datos"
+      },
+      {
+        "page": 24,
+        "text": "Artículo 18.- Limitación del tratamiento de datos"
+      },
+      {
+        "page": 24,
+        "text": "Artículo 19.- Efectos de la extinción de la"
+      },
+      {
+        "page": 25,
+        "text": "Artículo 20.- Regla general del tratamiento de datos"
+      },
+      {
+        "page": 25,
+        "text": "Artículo 21.- Principios y normas aplicables al"
+      },
+      {
+        "page": 25,
+        "text": "Artículo 22.- Comunicación o cesión de datos por un"
+      },
+      {
+        "page": 26,
+        "text": "Artículo 23.- Ejercicio de los derechos del titular,"
+      },
+      {
+        "page": 27,
+        "text": "Artículo 24.- Regímenes especiales. El tratamiento,"
+      },
+      {
+        "page": 28,
+        "text": "Artículo 25.- Datos relativos a infracciones penales,"
+      },
+      {
+        "page": 29,
+        "text": "Artículo 26.- Reglamento. Las condiciones, modalidades"
+      },
+      {
+        "page": 29,
+        "text": "Artículo 27.- Regla general de autorización."
+      },
+      {
+        "page": 30,
+        "text": "Artículo 28.- Regla de determinación de países"
+      },
+      {
+        "page": 31,
+        "text": "Artículo 29.- Fiscalización. La Agencia fiscalizará"
+      },
+      {
+        "page": 32,
+        "text": "Artículo 30.- Agencia de Protección de Datos"
+      },
+      {
+        "page": 32,
+        "text": "Artículo 30 bis.- Funciones y atribuciones de la"
+      },
+      {
+        "page": 34,
+        "text": "Artículo 30 ter.- Dirección de la Agencia. La"
+      },
+      {
+        "page": 34,
+        "text": "Artículo 30 quáter.- Miembros del Consejo Directivo"
+      },
+      {
+        "page": 35,
+        "text": "Artículo 30 quinquies.- Inhabilidades e"
+      },
+      {
+        "page": 36,
+        "text": "Artículo 30 sexies.- Remoción de consejeros y"
+      },
+      {
+        "page": 36,
+        "text": "Artículo 30 septies.- Remuneración. El presidente del"
+      },
+      {
+        "page": 37,
+        "text": "Artículo 30 octies.- Estatutos Agencia. Los estatutos"
+      },
+      {
+        "page": 37,
+        "text": "Artículo 30 nonies.- Funciones y atribuciones del"
+      },
+      {
+        "page": 37,
+        "text": "Artículo 31.- Coordinación regulatoria con el Consejo"
+      },
+      {
+        "page": 38,
+        "text": "Artículo 32.- Personal de la Agencia y fiscalización."
+      },
+      {
+        "page": 39,
+        "text": "Artículo 32 bis.- Del patrimonio. El patrimonio de la"
+      },
+      {
+        "page": 39,
+        "text": "Artículo 33.- Régimen general de responsabilidad. El"
+      },
+      {
+        "page": 40,
+        "text": "Artículo 34.- Infracciones leves, graves y"
+      },
+      {
+        "page": 40,
+        "text": "Artículo 34 bis.- Infracciones leves. Se consideran"
+      },
+      {
+        "page": 40,
+        "text": "Artículo 34 ter.- Infracciones graves. Se consideran"
+      },
+      {
+        "page": 41,
+        "text": "Artículo 34 quáter.- Infracciones gravísimas. Se"
+      },
+      {
+        "page": 42,
+        "text": "Artículo 35.- Sanciones. Las sanciones a las"
+      },
+      {
+        "page": 42,
+        "text": "Artículo 36.- Circunstancias atenuantes y agravantes"
+      },
+      {
+        "page": 43,
+        "text": "Artículo 37.- Determinación del monto de las multas."
+      },
+      {
+        "page": 44,
+        "text": "Artículo 38.- Sanciones accesorias. En caso que se"
+      },
+      {
+        "page": 44,
+        "text": "Artículo 39.- Registro Nacional de Sanciones y"
+      },
+      {
+        "page": 45,
+        "text": "Artículo 40.- Prescripción. Las acciones para"
+      },
+      {
+        "page": 45,
+        "text": "Artículo 41.- Procedimiento administrativo de tutela"
+      },
+      {
+        "page": 46,
+        "text": "Artículo 42.- Procedimiento administrativo por"
+      },
+      {
+        "page": 48,
+        "text": "Artículo 43.- Procedimiento de reclamación judicial."
+      },
+      {
+        "page": 49,
+        "text": "Artículo 44.- Responsabilidad administrativa del jefe"
+      },
+      {
+        "page": 50,
+        "text": "Artículo 45.- Responsabilidad del funcionario"
+      },
+      {
+        "page": 50,
+        "text": "Artículo 46.- Deber de los funcionarios de reserva y"
+      },
+      {
+        "page": 50,
+        "text": "Artículo 47.- Norma general. El responsable de datos"
+      },
+      {
+        "page": 51,
+        "text": "Artículo 48.- Prevención de infracciones. Los"
+      },
+      {
+        "page": 51,
+        "text": "Artículo 49.- Modelo de prevención de infracciones."
+      },
+      {
+        "page": 52,
+        "text": "Artículo 50.- Atribuciones del delegado. El"
+      },
+      {
+        "page": 53,
+        "text": "Artículo 51.- Certificación, registro, supervisión"
+      },
+      {
+        "page": 54,
+        "text": "Artículo 52.- Vigencia de los certificados. Los"
+      },
+      {
+        "page": 54,
+        "text": "Artículo 53.- Revocación de la certificación. La"
+      },
+      {
+        "page": 54,
+        "text": "Artículo 54.- Regla general del tratamiento de datos"
+      },
+      {
+        "page": 55,
+        "text": "Artículo 55.- Ejercicio de los derechos y"
+      },
+      {
+        "page": 56,
+        "text": "Artículo 1°.- Las disposiciones de esta ley, con"
+      },
+      {
+        "page": 56,
+        "text": "Artículo 2°.- Los titulares de los datos personales"
+      },
+      {
+        "page": 56,
+        "text": "Artículo 3°.- Las normas que regulan el Boletín de"
+      }
+    ]
+  },
+  {
+    "source": "Fuentes-primarias/Ley-21719-2024/Ley-21719_13-DIC-2024.pdf",
+    "sha256": "7cf285738bc954973d98587e0e6da12811972fb9699ee2b03133cef285d77d69",
+    "pages": 56,
+    "article_heading_candidates": [
+      {
+        "page": 1,
+        "text": "\"Artículo primero.- Introdúcense las siguientes"
+      },
+      {
+        "page": 1,
+        "text": "\"Artículo 1°.- Objeto y ámbito de aplicación. La"
+      },
+      {
+        "page": 2,
+        "text": "\"Artículo 1° bis.- Ámbito de aplicación"
+      },
+      {
+        "page": 5,
+        "text": "\"Artículo 3°.- Principios. El tratamiento de los"
+      },
+      {
+        "page": 6,
+        "text": "Artículo 4º.- Derechos del titular de datos. Toda"
+      },
+      {
+        "page": 6,
+        "text": "Artículo 5º.- Derecho de acceso. El titular de datos"
+      },
+      {
+        "page": 7,
+        "text": "Artículo 6º.- Derecho de rectificación. El titular"
+      },
+      {
+        "page": 7,
+        "text": "Artículo 7°.- Derecho de supresión. El titular de"
+      },
+      {
+        "page": 7,
+        "text": "Artículo 8°.- Derecho de Oposición. El titular de"
+      },
+      {
+        "page": 8,
+        "text": "Artículo 8° bis.- Decisiones individuales"
+      },
+      {
+        "page": 8,
+        "text": "Artículo 8° ter.- Derecho de bloqueo del tratamiento."
+      },
+      {
+        "page": 9,
+        "text": "Artículo 9º.- Derecho a la portabilidad de los datos"
+      },
+      {
+        "page": 9,
+        "text": "Artículo 10.- Forma y medios de ejercer los derechos"
+      },
+      {
+        "page": 10,
+        "text": "Artículo 11.- Procedimiento ante el responsable de"
+      },
+      {
+        "page": 11,
+        "text": "Artículo 12.- Regla general del tratamiento de datos."
+      },
+      {
+        "page": 12,
+        "text": "Artículo 13.- Otras fuentes de licitud del tratamiento"
+      },
+      {
+        "page": 12,
+        "text": "Artículo 14.- Obligaciones del responsable de datos."
+      },
+      {
+        "page": 13,
+        "text": "Artículo 14 bis.- Deber de secreto o confidencialidad."
+      },
+      {
+        "page": 13,
+        "text": "Artículo 14 ter.- Deber de información y"
+      },
+      {
+        "page": 14,
+        "text": "Artículo 14 quáter.- Deber de protección desde el"
+      },
+      {
+        "page": 15,
+        "text": "Artículo 14 quinquies.- Deber de adoptar medidas de"
+      },
+      {
+        "page": 15,
+        "text": "Artículo 14 sexies.- Deber de reportar las"
+      },
+      {
+        "page": 16,
+        "text": "Artículo 14 septies.- Diferenciación de estándares"
+      },
+      {
+        "page": 16,
+        "text": "Artículo 15.- Cesión de datos personales. Los datos"
+      },
+      {
+        "page": 17,
+        "text": "Artículo 15 bis.- Tratamiento de datos a través de un"
+      },
+      {
+        "page": 18,
+        "text": "Artículo 15 ter.- Evaluación de impacto en"
+      },
+      {
+        "page": 18,
+        "text": "Artículo 16.- Regla general para el tratamiento de"
+      },
+      {
+        "page": 19,
+        "text": "Artículo 16 bis.- Datos personales sensibles relativos"
+      },
+      {
+        "page": 20,
+        "text": "Artículo 16 ter.- Datos personales biométricos. Son"
+      },
+      {
+        "page": 21,
+        "text": "Artículo 16 quáter.- Datos personales relativos a los"
+      },
+      {
+        "page": 21,
+        "text": "Artículo 16 quinquies.- Datos personales con fines"
+      },
+      {
+        "page": 22,
+        "text": "Artículo 16 sexies.- Datos de geolocalización. El"
+      },
+      {
+        "page": 23,
+        "text": "Artículo 20.- Regla general del tratamiento de datos"
+      },
+      {
+        "page": 23,
+        "text": "Artículo 21.- Principios y normas aplicables al"
+      },
+      {
+        "page": 24,
+        "text": "Artículo 22.- Comunicación o cesión de datos por un"
+      },
+      {
+        "page": 24,
+        "text": "Artículo 23.- Ejercicio de los derechos del titular,"
+      },
+      {
+        "page": 25,
+        "text": "Artículo 24.- Regímenes especiales. El tratamiento,"
+      },
+      {
+        "page": 26,
+        "text": "Artículo 25.- Datos relativos a infracciones penales,"
+      },
+      {
+        "page": 27,
+        "text": "Artículo 26.- Reglamento. Las condiciones, modalidades"
+      },
+      {
+        "page": 27,
+        "text": "Artículo 27.- Regla general de autorización."
+      },
+      {
+        "page": 28,
+        "text": "Artículo 28.- Regla de determinación de países"
+      },
+      {
+        "page": 29,
+        "text": "Artículo 29.- Fiscalización. La Agencia fiscalizará"
+      },
+      {
+        "page": 30,
+        "text": "Artículo 30.- Agencia de Protección de Datos"
+      },
+      {
+        "page": 30,
+        "text": "Artículo 30 bis.- Funciones y atribuciones de la"
+      },
+      {
+        "page": 32,
+        "text": "Artículo 30 ter.- Dirección de la Agencia. La"
+      },
+      {
+        "page": 32,
+        "text": "Artículo 30 quáter.- Miembros del Consejo Directivo"
+      },
+      {
+        "page": 33,
+        "text": "Artículo 30 quinquies.- Inhabilidades e"
+      },
+      {
+        "page": 34,
+        "text": "Artículo 30 sexies.- Remoción de consejeros y"
+      },
+      {
+        "page": 34,
+        "text": "Artículo 30 septies.- Remuneración. El presidente del"
+      },
+      {
+        "page": 34,
+        "text": "Artículo 30 octies.- Estatutos Agencia. Los estatutos"
+      },
+      {
+        "page": 34,
+        "text": "Artículo 30 nonies.- Funciones y atribuciones del"
+      },
+      {
+        "page": 35,
+        "text": "Artículo 31.- Coordinación regulatoria con el Consejo"
+      },
+      {
+        "page": 36,
+        "text": "Artículo 32.- Personal de la Agencia y fiscalización."
+      },
+      {
+        "page": 37,
+        "text": "Artículo 32 bis.- Del patrimonio. El patrimonio de la"
+      },
+      {
+        "page": 37,
+        "text": "Artículo 33.- Régimen general de responsabilidad. El"
+      },
+      {
+        "page": 37,
+        "text": "Artículo 34.- Infracciones leves, graves y"
+      },
+      {
+        "page": 37,
+        "text": "Artículo 34 bis.- Infracciones leves. Se consideran"
+      },
+      {
+        "page": 38,
+        "text": "Artículo 34 ter.- Infracciones graves. Se consideran"
+      },
+      {
+        "page": 39,
+        "text": "Artículo 34 quáter.- Infracciones gravísimas. Se"
+      },
+      {
+        "page": 39,
+        "text": "Artículo 35.- Sanciones. Las sanciones a las"
+      },
+      {
+        "page": 40,
+        "text": "Artículo 36.- Circunstancias atenuantes y agravantes"
+      },
+      {
+        "page": 40,
+        "text": "Artículo 37.- Determinación del monto de las multas."
+      },
+      {
+        "page": 41,
+        "text": "Artículo 38.- Sanciones accesorias. En caso que se"
+      },
+      {
+        "page": 42,
+        "text": "Artículo 39.- Registro Nacional de Sanciones y"
+      },
+      {
+        "page": 42,
+        "text": "Artículo 40.- Prescripción. Las acciones para"
+      },
+      {
+        "page": 42,
+        "text": "Artículo 41.- Procedimiento administrativo de tutela"
+      },
+      {
+        "page": 44,
+        "text": "Artículo 42.- Procedimiento administrativo por"
+      },
+      {
+        "page": 45,
+        "text": "Artículo 43.- Procedimiento de reclamación judicial."
+      },
+      {
+        "page": 46,
+        "text": "Artículo 44.- Responsabilidad administrativa del jefe"
+      },
+      {
+        "page": 47,
+        "text": "Artículo 45.- Responsabilidad del funcionario"
+      },
+      {
+        "page": 47,
+        "text": "Artículo 46.- Deber de los funcionarios de reserva y"
+      },
+      {
+        "page": 48,
+        "text": "Artículo 47.- Norma general. El responsable de datos"
+      },
+      {
+        "page": 48,
+        "text": "Artículo 48.- Prevención de infracciones. Los"
+      },
+      {
+        "page": 48,
+        "text": "Artículo 49.- Modelo de prevención de infracciones."
+      },
+      {
+        "page": 49,
+        "text": "Artículo 50.- Atribuciones del delegado. El"
+      },
+      {
+        "page": 50,
+        "text": "Artículo 51.- Certificación, registro, supervisión"
+      },
+      {
+        "page": 51,
+        "text": "Artículo 52.- Vigencia de los certificados. Los"
+      },
+      {
+        "page": 51,
+        "text": "Artículo 53.- Revocación de la certificación. La"
+      },
+      {
+        "page": 51,
+        "text": "Artículo 54.- Regla general del tratamiento de datos"
+      },
+      {
+        "page": 52,
+        "text": "Artículo 55.- Ejercicio de los derechos y"
+      },
+      {
+        "page": 53,
+        "text": "Artículo segundo.- Suprímese el literal m) del"
+      },
+      {
+        "page": 53,
+        "text": "Artículo tercero.- Suprímese el artículo 15 bis de"
+      },
+      {
+        "page": 53,
+        "text": "Artículo primero.- Las modificaciones a las leyes N°"
+      },
+      {
+        "page": 53,
+        "text": "Artículo segundo.- Los reglamentos referidos en la"
+      },
+      {
+        "page": 53,
+        "text": "Artículo tercero.- Dentro de los sesenta días"
+      },
+      {
+        "page": 53,
+        "text": "Artículo cuarto.- La primera designación de los"
+      },
+      {
+        "page": 54,
+        "text": "Artículo quinto.- Los órganos públicos que                 D.O. 05.02.2026"
+      },
+      {
+        "page": 54,
+        "text": "Artículo sexto.- Durante los primeros doce meses luego"
+      },
+      {
+        "page": 54,
+        "text": "Artículo séptimo.- Las instituciones y organismos"
+      },
+      {
+        "page": 55,
+        "text": "Artículo octavo.- El mayor gasto fiscal que represente"
+      },
+      {
+        "page": 55,
+        "text": "Artículo 93 de la Constitución Política de la República"
+      }
+    ]
+  },
+  {
+    "source": "Fuentes-primarias/Decreto-662-2026/Decreto-662_09-SEP-2026.pdf",
+    "sha256": "a7d436335f8b563733022f0beb6d395445b1fea8addfb2cb53057dce35896f7e",
+    "pages": 10,
+    "article_heading_candidates": [
+      {
+        "page": 2,
+        "text": "Artículo 1.- Objeto y ámbito de aplicación. El objeto del presente reglamento"
+      },
+      {
+        "page": 2,
+        "text": "Artículo 2.- Reglas de aplicación supletoria. Al presente reglamento se"
+      },
+      {
+        "page": 3,
+        "text": "Artículo 3.- Requisitos del programa de cumplimiento. Los programas de"
+      },
+      {
+        "page": 4,
+        "text": "Artículo 4.- Regulación interna. La regulación interna a que dé lugar la"
+      },
+      {
+        "page": 5,
+        "text": "Artículo 5.- Difusión del programa de cumplimiento. El responsable deberá"
+      },
+      {
+        "page": 5,
+        "text": "Artículo 6.- El delegado de protección de datos. El responsable de datos"
+      },
+      {
+        "page": 5,
+        "text": "Artículo 7.- Calidad del delegado. El delegado de protección de datos podrá"
+      },
+      {
+        "page": 5,
+        "text": "Artículo 8.- Designación del delegado. El delegado de protección de datos"
+      },
+      {
+        "page": 5,
+        "text": "Artículo 9.- Medios para el cumplimiento de su función. El responsable del"
+      },
+      {
+        "page": 6,
+        "text": "Artículo 10.- Requisitos del delegado de protección de datos. El delegado de"
+      },
+      {
+        "page": 6,
+        "text": "Artículo 11.- Comunicación con el delegado. El responsable deberá publicar,"
+      },
+      {
+        "page": 6,
+        "text": "Artículo 12.- Deber de secreto, reserva o confidencialidad. El delegado de"
+      },
+      {
+        "page": 7,
+        "text": "Artículo 13.- Funciones del delegado. Al delegado le corresponderán, a lo"
+      },
+      {
+        "page": 8,
+        "text": "Artículo 14.- Atribuciones de la Agencia de Protección de Datos. En"
+      },
+      {
+        "page": 8,
+        "text": "Artículo 15.- Certificación. La Agencia certificará que el modelo de"
+      },
+      {
+        "page": 8,
+        "text": "Artículo 16.- Causales de término de vigencia de las certificaciones. Las"
+      },
+      {
+        "page": 9,
+        "text": "Artículo 17.- Registro. La Agencia incorporará en el Registro Nacional de"
+      },
+      {
+        "page": 9,
+        "text": "Artículo 18.- Implementación. La implementación del modelo de cumplimiento de"
+      },
+      {
+        "page": 9,
+        "text": "Artículo 19.- Supervisión. La Agencia podrá supervisar el cumplimiento de los"
+      },
+      {
+        "page": 9,
+        "text": "Artículo 20.- Revocación de la certificación. La Agencia podrá revocar la"
+      }
+    ]
+  }
+]

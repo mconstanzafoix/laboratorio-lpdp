@@ -1,0 +1,33 @@
+---
+identificador: "Ley-19628-consolidada-desde-2026-12-01/EX-153"
+enunciado: "La Agencia debe señalar en cada sanción las medidas para subsanar las causas que la motivaron."
+destinatario: "Agencia"
+modalidad: "Obligación"
+conducta_exigida: "Señalar medidas tendientes a subsanar las causales que dieron motivo a la sanción."
+condicion_de_aplicacion: "Imposición de sanción por Agencia."
+plazo: "en cada caso"
+disposicion_de_anclaje: "Ley 19.628 consolidada desde 01-DIC-2026, Art. 35, inc. 02, frag. 01, ../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-35/inciso-02-fragmento-01.md, principal: regla expresada"
+cita_textual_de_respaldo: "Art. 35, inc. 02, frag. 01: «En cada caso, la Agencia señalará las medidas tendientes a subsanar»"
+estado_de_determinacion: "Indeterminada"
+enumeracion_contenida: ""
+caracter: "Condicional"
+sancion: ""
+---
+
+## Fundamento textual e interpretación
+
+La selección de medidas subsanadoras exige valoración del caso.
+
+## Alcance de la regla
+
+La regla se aplica a: Imposición de sanción por Agencia. Estado `Indeterminada`; carácter `Condicional`. Plazo o momento: en cada caso.
+
+## Anclajes y función
+
+- [Art. 35, inc. 02, frag. 01](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-35/inciso-02-fragmento-01.md): principal: regla expresada.
+
+## Límites del análisis
+
+La calificación de `sancion` queda pendiente de conciliar esta regla con las tipificaciones de los arts. 34 bis, ter y quáter; el campo vacío no significa ausencia de tipificación.
+
+**Conciliación sancionadora individual (01-10-2026):** En [Art. 35, inc. 02, frag. 01](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-35/inciso-02-fragmento-01.md), la Agencia ejerce la competencia o deber «Señalar medidas tendientes a subsanar las causales que dieron motivo a la sanción». Se cotejó [Art. 34, inc. 1](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-34/inciso-01.md) y [Art. 44, inc. 3, frag. 1](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-44/inciso-03-fragmento-01.md): sus tipos se refieren a infracciones de responsables u órganos públicos en el tratamiento, sin establecer aquí un grado único para esta actuación de la autoridad. Falta comprobar si existe una operación propia de tratamiento y un tipo concreto; `sancion` permanece vacío.

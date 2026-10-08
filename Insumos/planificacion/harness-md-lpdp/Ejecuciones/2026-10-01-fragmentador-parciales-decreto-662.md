@@ -1,0 +1,13 @@
+# Fragmentador de Fuentes — cuatro parciales del Decreto 662
+
+- **Inicio y corte:** 2026-10-01 00:32:13 -03. Encargo limitado a `Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/` y este registro.
+- **REGLA:** `Fragmentador-de-Fuentes/PROMPT.md` §§2–4: una fuerza por Disposición; literal contra PDF; siete claves y cinco secciones por tarjeta; índices estructurales sin duplicar literal.
+- **HECHOS:** el PDF primario `Fuentes-primarias/Decreto-662-2026/Decreto-662_09-SEP-2026.pdf`, versión única desde 09-SEP-2026, páginas 5, 8 y 9, contiene los cuatro bloques mixtos. En art. 15 inc. 3, pág. 8, dice «al registro al que se refiere el inciso siguiente»; el inciso 4 trata vigencia y renovación.
+- **CUESTIÓN:** separar las cuatro unidades mixtas, comprobar cobertura y clasificación, y localizar la remisión dudosa sin corregirla.
+- **Método:** lectura completa del PROMPT, índice primario, informe previo y 10 páginas PDF; extracción `pypdf`, comparación literal de palabras y signos normalizando solo blancos. Se preservaron las cuatro rutas originales como índices y se crearon ocho hojas atómicas. Se releyeron los archivos desde cada destino y se verificaron las fichas, el árbol, la fuente y el informe.
+- **Decisión de agente:** art. 6 permiso/obligación; art. 15 duración constitutiva/renovación condicionada; art. 18 realización por cada responsable/inicio anticipado condicionado; art. 19 excepción condicionada/carga de justificación.
+- **Hallazgo:** art. 15 inc. 3 remite al «inciso siguiente» sin que el inciso 4 describa el registro. Duda localizada, sin enmienda ni destino interpretativo asignado.
+- **Rutas modificadas:** cuatro unidades originales convertidas en índices; ocho tarjetas nuevas; cuatro `articulo.md`; `ARBOL.md`, `FUENTE.md` e `INFORME-FRAGMENTACION.md` de esta Fuente. No se tocó otra Fuente.
+- **Controles:** 8/8 tarjetas con siete claves y cinco secciones; cuatro bloques recompuestos exactamente; ocho literales cotejados con páginas 5, 8 y 9 del PDF; 156/156 rutas del árbol existentes y enlaces internos resueltos; SHA-256 primario comprobado.
+- **Resultado:** fragmentación `[completo]` de 20 artículos y acto aprobatorio. Las 123 tarjetas menores no afectadas mantienen el control anterior. Pendiente jurídico: remisión dudosa del art. 15 inc. 3, entregada al Orquestador sin interpretación; no es pendiente de cobertura. No se escribieron estados humanos ni se hizo auditoría independiente.
+- **Cierre:** 2026-10-01 00:35:32 -03. Véase `Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/INFORME-FRAGMENTACION.md` para el detalle.

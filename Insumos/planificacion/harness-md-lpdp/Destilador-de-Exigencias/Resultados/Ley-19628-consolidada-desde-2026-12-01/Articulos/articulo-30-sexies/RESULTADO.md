@@ -1,0 +1,14 @@
+# Resultado de destilación — Artículo 30 sexies
+
+Fuente y versión: Ley 19.628 consolidada desde 01-DIC-2026.
+
+| Disposición | Resultado de destilación | Exigencias originadas | Exigencias apoyadas y función | Motivo breve |
+| --- | --- | --- | --- | --- |
+| [Art. 30 sexies, inc. 1](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-30-sexies/inciso-01.md) | Examinada sin Exigencias | — | — | Disposición constitutiva o delimitadora de organización, atribución, remuneración o patrimonio; no origina conducta autónoma en esta unidad. |
+| [Art. 30 sexies, inc. 2](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-30-sexies/inciso-02.md) | Examinada sin Exigencias | — | — | Disposición constitutiva o delimitadora de organización, atribución, remuneración o patrimonio; no origina conducta autónoma en esta unidad. |
+| [Art. 30 sexies, inc. 2, lit. a](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-30-sexies/inciso-02-letra-a.md) | Examinada sin Exigencias | — | — | Disposición constitutiva o delimitadora de organización, atribución, remuneración o patrimonio; no origina conducta autónoma en esta unidad. |
+| [Art. 30 sexies, inc. 2, lit. b](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-30-sexies/inciso-02-letra-b.md) | Examinada sin Exigencias | — | — | Disposición constitutiva o delimitadora de organización, atribución, remuneración o patrimonio; no origina conducta autónoma en esta unidad. |
+| [Art. 30 sexies, inc. 2, lit. c](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-30-sexies/inciso-02-letra-c.md) | Examinada sin Exigencias | — | — | Disposición constitutiva o delimitadora de organización, atribución, remuneración o patrimonio; no origina conducta autónoma en esta unidad. |
+| [Art. 30 sexies, inc. 2, lit. d](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-30-sexies/inciso-02-letra-d.md) | Examinada sin Exigencias | — | — | Disposición constitutiva o delimitadora de organización, atribución, remuneración o patrimonio; no origina conducta autónoma en esta unidad. |
+| [Art. 30 sexies, inc. 3](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-30-sexies/inciso-03.md) | Examinada sin Exigencias | — | — | Disposición constitutiva o delimitadora de organización, atribución, remuneración o patrimonio; no origina conducta autónoma en esta unidad. |
+| [Art. 30 sexies, inc. 4](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-30-sexies/inciso-04.md) | Examinada sin Exigencias | — | — | Disposición constitutiva o delimitadora de organización, atribución, remuneración o patrimonio; no origina conducta autónoma en esta unidad. |

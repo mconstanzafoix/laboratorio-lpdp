@@ -1,0 +1,13 @@
+# Resultado de destilación — Artículo 16 ter
+
+Fuente y versión: Ley 19.628 consolidada desde 01-DIC-2026.
+
+| Disposición | Resultado de destilación | Exigencias originadas | Exigencias apoyadas y función | Motivo breve |
+| --- | --- | --- | --- | --- |
+| [Art. 16 ter, inc. 1](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-16-ter/inciso-01.md) | Examinada con Exigencias | — | [Ley-19628-consolidada-desde-2026-12-01/EX-072](../../Exigencias/EX-072-tratamiento-biometricos.md) | Define dato biométrico y apoya el permiso de tratamiento; no regla propia. |
+| [Art. 16 ter, inc. 2](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-16-ter/inciso-02.md) | Examinada con Exigencias | [Ley-19628-consolidada-desde-2026-12-01/EX-072](../../Exigencias/EX-072-tratamiento-biometricos.md) | — | Condiciona tratamiento a consentimiento expreso e información específica. |
+| [Art. 16 ter, inc. 2, lit. a](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-16-ter/inciso-02-letra-a.md) | Examinada con Exigencias | — | [Ley-19628-consolidada-desde-2026-12-01/EX-072](../../Exigencias/EX-072-tratamiento-biometricos.md) | Integra uno de cuatro elementos informativos exigidos para tratar datos biométricos. |
+| [Art. 16 ter, inc. 2, lit. b](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-16-ter/inciso-02-letra-b.md) | Examinada con Exigencias | — | [Ley-19628-consolidada-desde-2026-12-01/EX-072](../../Exigencias/EX-072-tratamiento-biometricos.md) | Integra uno de cuatro elementos informativos exigidos para tratar datos biométricos. |
+| [Art. 16 ter, inc. 2, lit. c](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-16-ter/inciso-02-letra-c.md) | Examinada con Exigencias | — | [Ley-19628-consolidada-desde-2026-12-01/EX-072](../../Exigencias/EX-072-tratamiento-biometricos.md) | Integra uno de cuatro elementos informativos exigidos para tratar datos biométricos. |
+| [Art. 16 ter, inc. 2, lit. d](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-16-ter/inciso-02-letra-d.md) | Examinada con Exigencias | — | [Ley-19628-consolidada-desde-2026-12-01/EX-072](../../Exigencias/EX-072-tratamiento-biometricos.md) | Integra uno de cuatro elementos informativos exigidos para tratar datos biométricos. |
+| [Art. 16 ter, inc. 3](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-16-ter/inciso-03.md) | Examen incompleto | — | — | Permiso sin consentimiento remite a casos del art. 16 bis inc. 2, aún incompleto por ley habilitante no individualizada. |

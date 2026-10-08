@@ -1,0 +1,15 @@
+# Resultado de destilación — Artículo 35
+
+Fuente y versión: Ley 19.628 consolidada desde 01-DIC-2026.
+
+| Disposición | Resultado de destilación | Exigencias originadas | Exigencias apoyadas y función | Motivo breve |
+| --- | --- | --- | --- | --- |
+| [Art. 35, inc. 1](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-35/inciso-01.md) | Examinada sin Exigencias | — | — | Establece clase o cuantía de sanciones y agravación; no origina deber independiente en esta fila. |
+| [Art. 35, inc. 1, lit. a](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-35/inciso-01-letra-a.md) | Examinada sin Exigencias | — | — | Establece clase o cuantía de sanciones y agravación; no origina deber independiente en esta fila. |
+| [Art. 35, inc. 1, lit. b](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-35/inciso-01-letra-b.md) | Examinada sin Exigencias | — | — | Establece clase o cuantía de sanciones y agravación; no origina deber independiente en esta fila. |
+| [Art. 35, inc. 1, lit. c](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-35/inciso-01-letra-c.md) | Examinada sin Exigencias | — | — | Establece clase o cuantía de sanciones y agravación; no origina deber independiente en esta fila. |
+| [Art. 35, inc. 2, frag. 1](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-35/inciso-02-fragmento-01.md) | Examinada con Exigencias | [Ley-19628-consolidada-desde-2026-12-01/EX-153](../../Exigencias/EX-153-agencia-medidas-subsanacion.md) | — | Impone a la Agencia señalar medidas de subsanación al sancionar. |
+| [Art. 35, inc. 2, frag. 2](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-35/inciso-02-fragmento-02.md) | Examinada con Exigencias | [Ley-19628-consolidada-desde-2026-12-01/EX-154](../../Exigencias/EX-154-adoptar-medidas-subsanacion-sesenta-dias.md) | — | Impone al sancionado adoptar medidas en hasta sesenta días, sin tipo de días expreso. |
+| [Art. 35, inc. 2, frag. 3](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-35/inciso-02-fragmento-03.md) | Examinada con Exigencias | — | [Ley-19628-consolidada-desde-2026-12-01/EX-154](../../Exigencias/EX-154-adoptar-medidas-subsanacion-sesenta-dias.md) (recargo por incumplimiento) | Recargo del 50% a multa por incumplir medidas; efecto sancionador de EX-154, con remisión adicional al art. 49. |
+| [Art. 35, inc. 3](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-35/inciso-03.md) | Examinada sin Exigencias | — | — | Establece clase o cuantía de sanciones y agravación; no origina deber independiente en esta fila. |
+| [Art. 35, inc. 4](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-35/inciso-04.md) | Examinada sin Exigencias | — | — | Establece clase o cuantía de sanciones y agravación; no origina deber independiente en esta fila. |

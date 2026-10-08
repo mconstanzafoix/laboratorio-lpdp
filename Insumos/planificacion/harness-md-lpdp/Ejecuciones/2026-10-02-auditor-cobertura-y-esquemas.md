@@ -1,0 +1,10 @@
+# Ejecución — cobertura y salidas del Auditor de anclaje
+
+- **Fecha de comprobación:** 02-10-2026, 09:21 -03 (America/Santiago).
+- **Estado:** redacción modificada y comprobada técnicamente. El ajuste del documento canónico queda como propuesta pendiente de visado humano; no se atribuye una decisión jurídica a esta ejecución.
+- **Qué se hizo:** el Auditor ahora concilia PDF y mapa independiente con `ARBOL.md`, además de árbol con filas de destilación; registra pasajes relevantes sin Disposición creada mediante su localizador del PDF. Se distinguen impedimentos globales y locales, se añade la comprobación explícita de fundamento frente a derecho comparado y se fijan esquemas mínimos para mapa, revisión e informe. La reauditoría tiene sección propia. El Orquestador recibe el enrutamiento de hallazgos sin Disposición. Se armonizó la descripción del Auditor en el documento canónico del ciclo.
+- **Motivo:** hacer detectable y encaminable una omisión compartida por árbol y destilación; evitar que una falta local suspenda indebidamente todo el contraste o que una parte no examinada figure como completa; hacer comprobables las salidas.
+- **Productos:** `Auditor-de-anclaje/PROMPT.md`; `Orquestador/PROMPT.md`; `../documentos-canonicos/00-Sistema-LPDP.md`. Las rutas se leen desde la raíz del harness salvo el documento canónico.
+- **Comprobaciones:** relectura de las secciones modificadas; presencia de los dos sentidos de conciliación, localizador alternativo, distinción de impedimentos, control de derecho comparado, esquemas de los tres productos y enrutamiento por el Orquestador. No se ejecutó una auditoría de una Fuente ni se modificaron resultados, Exigencias o estados de Fuente.
+- **SHA-256 al cierre:** Auditor `14d3d9fdc3bb057015557b72ebcd7cb80df220460b7b2fa9ab5eb35f2d2f8425`; Orquestador `27999f772c8f1b31beea017d64c7dbcce4e25f5f7a941c717288c928fd893fd2`; documento canónico `b83441656fba1b774a75e6d6c008783c2915902991dab0b9b1d2e8ce8b901cb7`.
+- **Pendiente:** visado humano formal de la redacción canónica conforme al proceso de promoción. La eficacia del procedimiento completo requiere comprobarse en una auditoría real.

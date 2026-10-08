@@ -1,0 +1,5 @@
+{
+  "control": "Cada literal aparece sin cambio de palabras o puntuación en las páginas indicadas del original; se normaliza solo espacio. Este control no demuestra por sí solo integridad de cobertura.",
+  "literales_comprobados": 128,
+  "no_encontrados": []
+}

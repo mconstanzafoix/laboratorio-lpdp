@@ -1,0 +1,22 @@
+---
+name: examen-intensivo-destilacion
+description: Examina durante la destilación una duda jurídica que puede cambiar una regla o una Disposición que se pretende dejar en Examen incompleto; fundamenta el resultado sin inventar el contenido de remisiones.
+---
+
+# Examen intensivo de destilación
+
+Esta skill desarrolla el método obligatorio de la sección «2.2 Examina las dudas que pueden cambiar la regla o impedir cerrar una Disposición» del `Destilador-de-Exigencias/PROMPT.md`. Se carga **en toda ejecución del Destilador**. Aplica su examen intensivo solo cuando se cumple la prueba de entrada de esa sección: dos lecturas defendibles cambiarían materialmente la regla, su alcance, el corte de Exigencias o el resultado de una Disposición; o se pretende registrar o mantener `Examen incompleto`. Toda fila incompleta activa el examen; eso exige reexaminarla, no predetermina su cierre.
+
+El `PROMPT.md` fija las entradas autorizadas, los estados, el corte de Exigencias y los archivos de salida. Esta skill no amplía el encargo, no permite consultar o incorporar otras Fuentes por iniciativa propia y no reemplaza una decisión humana pendiente. Conserva la identidad de cada Fuente y versión aunque dos cuerpos contengan texto igual.
+
+## Examen intensivo
+
+1. **Plantea la cuestión que cambia el resultado.** Identifica el pasaje literal y sus anclajes, la posición normativa posible —sujeto, modalidad, conducta u objeto, supuesto, condición, excepción, plazo y efecto— y el componente discutido. Si hay dos lecturas defendibles, formula cada una y explica qué cambiaría en la ficha, el corte o la fila. Si no hay segunda lectura y propones `Examen incompleto`, indica qué componente indispensable no puedes conocer y por qué el texto disponible no basta.
+2. **Determina la función de cada referencia.** Distingue entre: (a) una condición que la Fuente ya expresa y cuya concurrencia se comprobaría en una situación particular; (b) una remisión que selecciona otro régimen sin reproducir sus reglas; y (c) una remisión cuyo texto determina un componente que se pretende atribuir a la regla de esta Fuente. Una frase como «conforme a la ley» no resuelve por sí sola cuál función cumple.
+3. **Haz la prueba de cambio.** Pregunta: *si el texto remitido dijera algo distinto, ¿cambiaría solo la comprobación de una condición en un caso particular o cambiaría el sujeto, la conducta, el plazo, la condición o la consecuencia que atribuyo a esta regla?* En (a), expresa la condición sin afirmar su concurrencia particular. En (b), registra la elección del régimen y no trasplantes todas sus obligaciones a esta Fuente. En (c), lee el pasaje necesario entre los materiales autorizados; si no está disponible, no afirmes ese componente y localiza el impedimento. No reemplaces una conducta desconocida por «cumplir la ley».
+4. **Contrasta antes de concluir.** Expón la objeción más fuerte a la lectura que sostienes y a la alternativa cuando exista; respóndela con texto y contexto. Determina qué parte puede formularse, qué parte no, y por qué. Si persiste una duda jurídica material, devuélvela por el circuito previsto en el prompt, sin crear un visado propio. Una Fuente externa ausente no es motivo suficiente de incompletitud hasta explicar qué componente propio aportaría.
+5. **Aplica el corte y escribe el resultado.** El método puede llevar a crear una Exigencia, a usar la Disposición como apoyo de otra, a no crear una Exigencia propia o a mantener un impedimento localizado. Decide ese corte según 2.3 del prompt; no equipares una Disposición, una condición ni una remisión con una Exigencia autónoma. Conserva las posiciones independientes ya formulables.
+
+Escribe la pregunta, los pasajes, las lecturas cuando existan, la prueba de cambio, la objeción y la **conclusión fundada** bajo la tabla del mismo `Articulos/<unidad>/RESULTADO.md`, en `### Examen intensivo — <identificador de Disposición>`. La fila conserva su `Motivo breve` y el resultado de destilación; no aloja todo el razonamiento. Si se crea o modifica una ficha, explica en ella la regla completa, sus condiciones y el efecto de este examen, y enlaza la sección de `RESULTADO.md`. No abras otro expediente por hallazgo.
+
+Lee [casos de control](references/casos-de-control.md) cuando una condición abierta, una selección de régimen o una remisión de contenido indispensable sea decisiva y necesites contrastar tu clasificación. Son pruebas de razonamiento, no soluciones transferibles ni un catálogo de las 55 filas.

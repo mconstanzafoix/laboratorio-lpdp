@@ -1,0 +1,45 @@
+---
+identificador: "Ley-19628-consolidada-desde-2026-12-01/EX-224"
+enunciado: "El responsable debe adoptar medidas necesarias para asegurar derechos y libertades del titular en todos los casos de decisión basada en tratamiento automatizado, incluidas las garantías enumeradas por el inciso tercero y los supuestos exceptuados del inciso segundo."
+destinatario: "Responsable de datos"
+modalidad: "Obligación"
+conducta_exigida: "Adoptar medidas necesarias para asegurar derechos y libertades en decisiones automatizadas."
+condicion_de_aplicacion: "Cualquier decisión basada en tratamiento automatizado, incluso supuestos exceptuados del inciso segundo."
+plazo: ""
+disposicion_de_anclaje: "Ley 19.628 consolidada desde 01-DIC-2026, Art. 8 bis, inc. 03, ../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-08-bis/inciso-03.md, principal: regla expresada"
+cita_textual_de_respaldo: "Art. 8 bis, inc. 03: «deberá adoptar las medidas necesarias para asegurar los derechos y libertades del titular»"
+estado_de_determinacion: "Indeterminada"
+enumeracion_contenida: "derechos y libertades del titular; derecho a la información y transparencia; derecho a obtener una explicación; intervención humana; expresar su punto de vista; solicitar la revisión de la decisión"
+caracter: "Condicional"
+sancion: "Calificación variable según la conducta"
+---
+
+## Fundamento textual e interpretación
+
+El [inciso 3](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-08-bis/inciso-03.md) dice «En todos los casos de decisiones basadas en el tratamiento automatizado de datos personales, inclusive aquéllos señalados en las letras a), b) y c) precedentes, el responsable deberá adoptar las medidas necesarias». El destinatario es el responsable y la modalidad, obligación. La conducta de asegurar derechos y libertades mediante medidas, incluidos los derechos enumerados, es autónoma frente a la posición del titular del inciso 1: puede incumplirse incluso cuando una excepción excluya ese derecho.
+
+## Alcance de la regla
+
+El supuesto es **cualquier decisión basada en tratamiento automatizado de datos personales**; el inciso 3 incluye expresamente las excepciones a), b) y c) del inciso 2. No traslada el requisito de efecto jurídico o afectación significativa del inciso 1. El responsable debe adoptar medidas necesarias para asegurar derechos y libertades, información y transparencia, explicación, intervención humana, expresión del punto de vista y revisión de la decisión. Son componentes enumerados de una misma obligación de protección; el texto no fija plazo numérico. El carácter `Condicional` deriva de la existencia de tal decisión; `Indeterminada` de «medidas necesarias» y del grado de aseguramiento, cuya suficiencia requiere valoración jurídica y no es delegada expresamente a otro instrumento. El [examen intensivo de la letra c](../Articulos/articulo-08-bis/RESULTADO.md#examen-intensivo--art-8-bis-inc-2-lit-c) confirma que la excepción no suspende esta obligación.
+
+## Anclajes y función
+
+- [Art. 8 bis, inc. 03](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-08-bis/inciso-03.md): principal: regla expresada.
+- Ley 19.628 consolidada desde 01-DIC-2026, [Art. 8 bis, inc. 2](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-08-bis/inciso-02.md) y [letras a](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-08-bis/inciso-02-letra-a.md), [b](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-08-bis/inciso-02-letra-b.md), [c](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-08-bis/inciso-02-letra-c.md), pág. 8: contexto de las excepciones nombradas en el anclaje principal; no exceptúan esta obligación.
+
+## Sanción
+
+La infracción hipotética es del responsable. El [art. 34, inc. 1](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-34/inciso-01.md) incluye infracciones a obligaciones de esta ley. Se cotejaron los tipos leves del [34 bis](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-34-bis/inciso-01.md), graves del [34 ter](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-34-ter/inciso-01.md) y gravísimos del [34 quáter](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-34-quáter/inciso-01.md). El tipo de [34 bis a](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-34-bis/inciso-01-letra-a.md) remite específicamente al deber de información del **art. 14 ter**; no abarca automáticamente toda garantía del 8 bis.
+
+| Conducta hipotética | Tipo candidato y grado, o 0 fundado | Presupuestos | Relación con las demás vías | Conclusión |
+| --- | --- | --- | --- | --- |
+| No adoptar medidas necesarias de explicación, intervención humana, recepción del punto de vista o revisión, sin otro elemento tipificado | [34 bis, inc. 1, lit. f](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-34-bis/inciso-01-letra-f.md), `1 Leve` residual | Decisión automatizada y omisión que infringe el deber del inc. 3, sin tipo superior para el mismo hecho | La cláusula cubre «cualquier otra infracción» a obligaciones; no transforma toda omisión en obstáculo a oposición. | Leve residual para ese supuesto. |
+| Omitir respuesta, responder incompleta o fuera de plazo a solicitud de explicación o revisión formulada conforme a ley | [34 bis, inc. 1, lit. c](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-34-bis/inciso-01-letra-c.md), `1 Leve` | Solicitud de titular conforme a ley y defecto de respuesta | La garantía de revisión no fija aquí plazo propio; el tipo exige que haya una solicitud conforme a ley. | Leve para la modalidad de respuesta tipificada. |
+| Omitir medidas necesarias para asegurar derechos de modo que se impida u obstaculice efectivamente la oposición legítima | [34 ter, inc. 1, lit. e](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-34-ter/inciso-01-letra-e.md), `2 Grave` | Omisión del deber del inc. 3, ejercicio legítimo de oposición y nexo causal efectivo con el obstáculo | El tipo protege el derecho de [EX-223](EX-223-oposicion-decision-automatizada.md), pero la omisión de medidas es también conducta de EX-224 cuando causa ese obstáculo. La falta de medidas por sí sola no integra el tipo. | Grave únicamente para la omisión causalmente obstructiva. |
+| Desobedecer resolución posterior de la Agencia sobre reclamación de oposición | [34 quáter, inc. 1, lit. i](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-34-quáter/inciso-01-letra-i.md), `3 Gravísima` para el hecho posterior | Resolución de esa clase e incumplimiento posterior | Es presupuesto nuevo vinculado a reclamación del derecho de [EX-223](EX-223-oposicion-decision-automatizada.md); [34 ter n](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-34-ter/inciso-01-letra-n.md) es tipo general. No se traslada a la omisión originaria ni se suman grados. | Vía posterior autónoma, no calificación de EX-224. |
+
+La objeción al residual es que el deber de garantizar información podría encajar en 34 bis a o que toda frustración de una salvaguarda sería grave por 34 ter e. El primero nombra expresamente el **art. 14 ter**, cuyo incumplimiento tendría que probarse por separado; el segundo exige obstaculizar el **ejercicio legítimo de oposición** u otro derecho enumerado. La mejor objeción a incluir una vía grave en esta ficha es que el tipo protege el derecho de [EX-223](EX-223-oposicion-decision-automatizada.md), mientras EX-224 trata de medidas: bajo esa lectura, solo EX-223 recibiría el grado grave y EX-224 sería `1 Leve`. Sin embargo, el inciso 3 exige medidas para asegurar «los derechos y libertades del titular» y una omisión que **efectivamente cause** el obstáculo de oposición incumple también esa obligación. La subsunción no extiende por analogía el tipo a cualquier falta de medida: requiere el elemento causal y el ejercicio legítimo. Si el mismo hecho configura dos infracciones, el [art. 37, inc. 2](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-37/inciso-02.md) dispone una sola multa, considerando la infracción más grave; para conductas independientes prevé acumulación. `Calificación variable según la conducta` registra la vía leve de omisión sin obstáculo y la vía grave de omisión causalmente obstructiva, sin multiplicar sanciones por la doble vinculación; la resolución posterior tiene presupuesto propio. No se calcula multa ni se afirma infracción cometida.
+
+## Límites del análisis
+
+La suficiencia de medidas se valora en el caso concreto. No se presume que exista una solicitud, obstáculo de oposición o resolución de la Agencia.

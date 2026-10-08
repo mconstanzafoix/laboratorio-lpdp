@@ -1,0 +1,11 @@
+# Resultado de destilación — Artículo 17
+
+Fuente: Decreto supremo N° 662, versión única desde 09-SEP-2026. Estado: Propuesta pendiente de comprobación técnica.
+
+| Disposición | Resultado de destilación | Exigencias originadas | Exigencias apoyadas y función | Motivo breve |
+| --- | --- | --- | --- | --- |
+| [Art. 17, inc. 1, frag. 1](../../../../../Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-17/inciso-1-fragmento-1.md) | Examinada con Exigencias | [Decreto-662-version-2026-09-09/EX-067](../../Exigencias/EX-067-inscribir-entidades-certificadas-con-responsable-repres.md) | [Decreto-662-version-2026-09-09/EX-068](../../Exigencias/EX-068-emitir-constancia-con-datos-registrales.md) (datos de certificación y registro) | Origina posición autónoma. Apoya: datos de certificación y registro. |
+| [Art. 17, inc. 1, frag. 2](../../../../../Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-17/inciso-1-fragmento-2.md) | Examinada con Exigencias | — | [Decreto-662-version-2026-09-09/EX-067](../../Exigencias/EX-067-inscribir-entidades-certificadas-con-responsable-repres.md) (representante de servicios centralizados) | Apoya: representante de servicios centralizados. |
+| [Art. 17, inc. 1, frag. 3](../../../../../Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-17/inciso-1-fragmento-3.md) | Examinada con Exigencias | — | [Decreto-662-version-2026-09-09/EX-067](../../Exigencias/EX-067-inscribir-entidades-certificadas-con-responsable-repres.md) (fecha y vencimiento registrales) | Apoya: fecha y vencimiento registrales. |
+| [Art. 17, inc. 2](../../../../../Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-17/inciso-2.md) | Examinada con Exigencias | — | [Decreto-662-version-2026-09-09/EX-067](../../Exigencias/EX-067-inscribir-entidades-certificadas-con-responsable-repres.md) (acceso público al certificado) | Apoya: acceso público al certificado. |
+| [Art. 17, inc. 3](../../../../../Fragmentador-de-Fuentes/Fuentes/Decreto-662-version-2026-09-09/articulo-17/inciso-3.md) | Examinada con Exigencias | [Decreto-662-version-2026-09-09/EX-068](../../Exigencias/EX-068-emitir-constancia-con-datos-registrales.md) | — | Origina posición autónoma. |

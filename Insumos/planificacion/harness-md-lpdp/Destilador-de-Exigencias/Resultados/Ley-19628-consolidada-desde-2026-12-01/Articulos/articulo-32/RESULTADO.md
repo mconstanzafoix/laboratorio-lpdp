@@ -1,0 +1,15 @@
+# Resultado de destilación — Artículo 32
+
+Fuente y versión: Ley 19.628 consolidada desde 01-DIC-2026.
+
+| Disposición | Resultado de destilación | Exigencias originadas | Exigencias apoyadas y función | Motivo breve |
+| --- | --- | --- | --- | --- |
+| [Art. 32, inc. 1](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-32/inciso-01.md) | Examen incompleto | — | — | Régimen laboral remite al Código del Trabajo, Fuente externa no incorporada; condiciones aplicables sin examinar. |
+| [Art. 32, inc. 2, frag. 1](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-32/inciso-02-fragmento-01.md) | Examen incompleto | — | — | Aplicación de normas de probidad remitidas a Ley 20.880 y DFL 1-19.653, externos no incorporados; contenido sin examinar. |
+| [Art. 32, inc. 2, frag. 2](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-32/inciso-02-fragmento-02.md) | Examinada con Exigencias | [Ley-19628-consolidada-desde-2026-12-01/EX-151](../../Exigencias/EX-151-clausula-probidad-contratos-agencia.md) | — | Deja constancia contractual de aplicación de normas de probidad; obligación formal independiente. |
+| [Art. 32, inc. 3](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-32/inciso-03.md) | Examen incompleto | — | — | Procedimiento de selección remite a Ley 19.882, Fuente externa no incorporada; componente procedimental pendiente. |
+| [Art. 32, inc. 4](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-32/inciso-04.md) | Examinada con Exigencias | [Ley-19628-consolidada-desde-2026-12-01/EX-152](../../Exigencias/EX-152-defensa-juridica-personal-agencia.md) | — | Deber de defensa jurídica bajo condiciones indicadas, incluso tras cese. |
+| [Art. 32, inc. 5](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-32/inciso-05.md) | Examinada con Exigencias | — | [Ley-19628-consolidada-desde-2026-12-01/EX-152](../../Exigencias/EX-152-defensa-juridica-personal-agencia.md) (excepción) | Excluye defensa por causal de cesación imputable al funcionario; límite de EX-152. |
+| [Art. 32, inc. 6](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-32/inciso-06.md) | Examen incompleto | — | — | Deber de cumplir DL 1.263, Fuente externa no incorporada; contenido de deber sin examinar. |
+| [Art. 32, inc. 7](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-32/inciso-07.md) | Examinada sin Exigencias | — | — | Sujeción de Agencia a fiscalización de Contraloría en personal y cuentas; norma de ámbito institucional. |
+| [Art. 32, inc. 8](../../../../../Fragmentador-de-Fuentes/Fuentes/Ley-19628-consolidada-desde-2026-12-01/articulo-32/inciso-08.md) | Examinada sin Exigencias | — | — | Exención de toma de razón para resoluciones de Agencia; límite procedimental institucional. |

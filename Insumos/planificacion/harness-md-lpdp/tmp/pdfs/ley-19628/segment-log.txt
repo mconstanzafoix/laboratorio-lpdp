@@ -1,0 +1,86 @@
+1                    4 p1-1   Artículo 1°.- Objeto y ámbito de aplicación. La presente ley tiene por objeto re
+1-bis                5 p1-2   Artículo 1° bis.- Ámbito de aplicación territorial. Las disposiciones de la pres
+2                   30 p2-4   Artículo 2°.- Definiciones. Para los efectos de esta ley se entenderá por:
+3                   13 p4-5   Artículo 3°.- Principios. El tratamiento de los datos personales se rige por los
+4                    4 p6-6   Artículo 4º.- Derechos del titular de datos. Toda persona, actuando por sí o a t
+5                    8 p6-6   Artículo 5º.- Derecho de acceso. El titular de datos tiene derecho a solicitar y
+6                    3 p6-7   Artículo 6º.- Derecho de rectificación. El titular de datos tiene derecho a soli
+7                   14 p7-7   Artículo 7°.- Derecho de supresión. El titular de datos tiene derecho a solicita
+8                    5 p7-8   Artículo 8°.- Derecho de Oposición. El titular de datos tiene derecho a oponerse
+8-bis                6 p8-8   Artículo 8° bis.- Decisiones individuales automatizadas, incluida la elaboración
+8-ter                3 p8-8   Artículo 8° ter.- Derecho de bloqueo del tratamiento. El titular de datos tiene 
+9                    7 p8-9   Artículo 9º.- Derecho a la portabilidad de los datos personales. El titular de d
+10                   7 p9-10   Artículo 10.- Forma y medios de ejercer los derechos del titular de datos. Los d
+11                  12 p10-11   Artículo 11.- Procedimiento ante el responsable de datos. Para ejercer los derec
+12                   8 p11-12   Artículo 12.- Regla general del tratamiento de datos. Es lícito el tratamiento d
+13                   7 p12-12   Artículo 13.- Otras fuentes de licitud del tratamiento de datos. Es lícito el tr
+14                   7 p12-13   Artículo 14.- Obligaciones del responsable de datos. El responsable de datos, si
+14-bis               4 p13-13   Artículo 14 bis.- Deber de secreto o confidencialidad. El responsable de datos e
+14-ter              13 p13-14   Artículo 14 ter.- Deber de información y transparencia. El responsable de datos 
+14-quáter            2 p14-15   Artículo 14 quáter.- Deber de protección desde el diseño y por defecto. Con la f
+14-quinquies         7 p15-15   Artículo 14 quinquies.- Deber de adoptar medidas de seguridad. El responsable de
+14-sexies            4 p15-16   Artículo 14 sexies.- Deber de reportar las vulneraciones a las medidas de seguri
+14-septies           2 p16-16   Artículo 14 septies.- Diferenciación de estándares de cumplimiento. Los estándar
+15                   6 p16-17   Artículo 15.- Cesión de datos personales. Los datos personales podrán ser cedido
+15-bis               5 p17-18   Artículo 15 bis.- Tratamiento de datos a través de un tercero mandatario o encar
+15-ter               8 p18-18   Artículo 15 ter.- Evaluación de impacto en protección de datos personales. Cuand
+16                  16 p18-20   Artículo 16.- Regla general para el tratamiento de datos personales sensibles. E
+16-bis              10 p20-21   Artículo 16 bis.- Datos personales sensibles relativos a la salud y al perfil bi
+16-ter               7 p21-21   Artículo 16 ter.- Datos personales biométricos. Son datos personales biométricos
+16-quáter            6 p21-22   Artículo 16 quáter.- Datos personales relativos a los niños, niñas y adolescente
+16-quinquies         3 p22-22   Artículo 16 quinquies.- Datos personales con fines históricos, estadísticos, cie
+16-sexies            2 p22-22   Artículo 16 sexies.- Datos de geolocalización. El tratamiento de los datos perso
+17                   9 p22-24   Artículo 17.- Regla general del tratamiento de datos relativos a obligaciones de
+18                   3 p24-24   Artículo 18.- Limitación del tratamiento de datos para obligaciones financieras,
+19                   4 p24-25   Artículo 19.- Efectos de la extinción de la obligación económica, bancaria o com
+20                   1 p25-25   Artículo 20.- Regla general del tratamiento de datos por órganos públicos. Es lí
+21                   3 p25-25   Artículo 21.- Principios y normas aplicables al tratamiento de datos de los órga
+22                   7 p25-26   Artículo 22.- Comunicación o cesión de datos por un órgano público. Los órganos 
+23                   6 p26-27   Artículo 23.- Ejercicio de los derechos del titular, procedimiento administrativ
+24                   8 p27-28   Artículo 24.- Regímenes especiales. El tratamiento, comunicación o cesión de dat
+25                   9 p28-29   Artículo 25.- Datos relativos a infracciones penales, civiles, administrativas y
+26                   2 p29-29   Artículo 26.- Reglamento. Las condiciones, modalidades e instrumentos para la co
+27                  13 p29-30   Artículo 27.- Regla general de autorización. Cumpliéndose los requisitos que, de
+28                  10 p30-31   Artículo 28.- Regla de determinación de países adecuados y demás normas aplicabl
+29                   1 p31-32   Artículo 29.- Fiscalización. La Agencia fiscalizará las operaciones de transfere
+30                   3 p32-32   Artículo 30.- Agencia de Protección de Datos Personales. Créase la Agencia de Pr
+30-bis              16 p32-34   Artículo 30 bis.- Funciones y atribuciones de la Agencia. La Agencia tendrá las 
+30-ter               7 p34-34   Artículo 30 ter.- Dirección de la Agencia. La dirección superior de la Agencia l
+30-quáter            8 p34-35   Artículo 30 quáter.- Miembros del Consejo Directivo de la Agencia. El Consejo Di
+30-quinquies         9 p35-36   Artículo 30 quinquies.- Inhabilidades e incompatibilidades. El cargo de consejer
+30-sexies            8 p36-36   Artículo 30 sexies.- Remoción de consejeros y causales de cesación. Los consejer
+30-septies           2 p36-36   Artículo 30 septies.- Remuneración. El presidente del Consejo Directivo de la Ag
+30-octies            1 p37-37   Artículo 30 octies.- Estatutos Agencia. Los estatutos de la Agencia establecerán
+30-nonies           13 p37-37   Artículo 30 nonies.- Funciones y atribuciones del presidente del Consejo Directi
+31                   4 p37-38   Artículo 31.- Coordinación regulatoria con el Consejo para la Transparencia. Cua
+32                   8 p38-39   Artículo 32.- Personal de la Agencia y fiscalización. Las personas que presten s
+32-bis               6 p39-39   Artículo 32 bis.- Del patrimonio. El patrimonio de la Agencia estará formado por
+33                   1 p39-39   Artículo 33.- Régimen general de responsabilidad. El responsable de datos, sea u
+34                   2 p40-40   Artículo 34.- Infracciones leves, graves y gravísimas. Las infracciones cometida
+34-bis               7 p40-40   Artículo 34 bis.- Infracciones leves. Se consideran infracciones leves, las sigu
+34-ter              15 p40-41   Artículo 34 ter.- Infracciones graves. Se consideran infracciones graves, las si
+34-quáter           12 p41-42   Artículo 34 quáter.- Infracciones gravísimas. Se consideran infracciones gravísi
+35                   7 p42-42   Artículo 35.- Sanciones. Las sanciones a las infracciones en que incurran los re
+36                  10 p42-43   Artículo 36.- Circunstancias atenuantes y agravantes de responsabilidad. Se cons
+37                  12 p43-44   Artículo 37.- Determinación del monto de las multas. Para la determinación del m
+38                   5 p44-44   Artículo 38.- Sanciones accesorias. En caso que se impongan multas por infraccio
+39                   3 p44-44   Artículo 39.- Registro Nacional de Sanciones y Cumplimiento. Créase el Registro 
+40                   4 p45-45   Artículo 40.- Prescripción. Las acciones para perseguir la responsabilidad por l
+41                  12 p45-46   Artículo 41.- Procedimiento administrativo de tutela de derechos. El titular de 
+42                  13 p46-48   Artículo 42.- Procedimiento administrativo por infracción de ley. La determinaci
+43                   9 p48-49   Artículo 43.- Procedimiento de reclamación judicial. Las personas naturales o ju
+44                   9 p49-50   Artículo 44.- Responsabilidad administrativa del jefe superior del órgano públic
+45                   2 p50-50   Artículo 45.- Responsabilidad del funcionario infractor. Sin perjuicio de lo dis
+46                   2 p50-50   Artículo 46.- Deber de los funcionarios de reserva y confidencialidad. Los funci
+47                   3 p50-51   Artículo 47.- Norma general. El responsable de datos deberá indemnizar el daño p
+48                   1 p51-51   Artículo 48.- Prevención de infracciones. Los responsables de datos, sean person
+49                  10 p51-52   Artículo 49.- Modelo de prevención de infracciones. Los responsables de datos po
+50                  18 p52-53   Artículo 50.- Atribuciones del delegado. El responsable de datos podrá designar 
+51                   3 p53-54   Artículo 51.- Certificación, registro, supervisión del modelo de prevención de i
+52                   7 p54-54   Artículo 52.- Vigencia de los certificados. Los certificados expedidos por la Ag
+53                   4 p54-54   Artículo 53.- Revocación de la certificación. La Agencia puede revocar la certif
+54                   2 p54-55   Artículo 54.- Regla general del tratamiento de datos personales. Es lícito el tr
+55                   3 p55-56   Artículo 55.- Ejercicio de los derechos y reclamaciones. Los titulares de datos 
+1-T                  1 p56-56   Artículo 1°.- Las disposiciones de esta ley, con excepción del artículo 22, entr
+2-T                  1 p56-56   Artículo 2°.- Los titulares de los datos personales registrados en bancos de dat
+3-T                  1 p56-56   Artículo 3°.- Las normas que regulan el Boletín de Informaciones Comerciales cre

@@ -1,0 +1,41 @@
+---
+identificador: "Ley-21719-version-diferida-2026-12-01/EX-087"
+enunciado: "El responsable debe realizar una evaluación de impacto en protección de datos antes de iniciar tratamientos que probablemente causen alto riesgo, incluidos los supuestos siempre exigidos."
+destinatario: "Responsable de datos"
+modalidad: "Obligación"
+conducta_exigida: "Realizar evaluación de impacto en protección de datos personales."
+condicion_de_aplicacion: "Probabilidad de alto riesgo para derechos del titular por naturaleza, alcance, contexto, tecnología o fines O alguno de los cuatro supuestos en que se requiere siempre."
+plazo: "Antes del inicio de las operaciones de tratamiento."
+disposicion_de_anclaje: "Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 15 ter reproducido de Ley 19.628, inc. 1, Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-15-ter/inciso-01.md, principal; Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 15 ter reproducido de Ley 19.628, inc. 2, Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-15-ter/inciso-02.md, exigencia siempre en casos listados; Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 15 ter reproducido de Ley 19.628, lit. a, Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-15-ter/letra-a.md, supuesto siempre exigido; Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 15 ter reproducido de Ley 19.628, lit. b, Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-15-ter/letra-b.md, supuesto siempre exigido; Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 15 ter reproducido de Ley 19.628, lit. c, Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-15-ter/letra-c.md, supuesto siempre exigido; Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 15 ter reproducido de Ley 19.628, lit. d, Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-15-ter/letra-d.md, supuesto siempre exigido; Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 15 ter reproducido de Ley 19.628, inc. 3, Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-15-ter/inciso-03.md, delegación de orientaciones mínimas; Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 14, art. 34 quater reproducido de Ley 19.628, lit. k, Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-14/articulo-reproducido-34-quater/letra-k.md, tipificación 3 Gravísima; Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 14, art. 35 reproducido de Ley 19.628, lit. c, Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-14/articulo-reproducido-35/letra-c.md, sanción máxima general"
+cita_textual_de_respaldo: "Art. 15 ter reproducido, inc. 1: «el responsable del tratamiento deberá realizar, previo al inicio ... una evaluación del impacto»."
+estado_de_determinacion: "Delegada"
+enumeracion_contenida: "evaluación sistemática y exhaustiva de aspectos personales basada en tratamiento o decisiones automatizadas, como perfiles, con efectos jurídicos significativos; tratamiento masivo de datos o a gran escala; observación o monitoreo sistemático de zona de acceso público; tratamiento de datos sensibles y especialmente protegidos en hipótesis de excepción del consentimiento"
+caracter: "Condicional"
+sancion: "3 Gravísima"
+---
+
+## Fundamento textual e interpretación
+
+El inciso primero impone una evaluación previa ante riesgo alto probable. El inciso segundo y sus letras a a d añaden supuestos en que se requiere siempre, sin necesidad de una nueva ficha por cada supuesto. El inciso tercero encomienda a la Agencia las orientaciones mínimas para hacerla, por lo que un componente de su contenido queda delegado.
+
+## Alcance de la regla
+
+La activación opera por riesgo alto probable **O** cualquiera de los cuatro supuestos de exigencia incondicional; son alternativas. La evaluación debe preceder las operaciones de tratamiento. La Agencia establecerá orientaciones mínimas con descripción de operaciones y finalidad, necesidad y proporcionalidad, riesgos y mitigación; ese componente explica `Delegada`. La apreciación de alto riesgo también es valorativa. Carácter `Condicional`.
+
+## Anclajes y función
+
+- Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 14, art. 34 quater reproducido de Ley 19.628, lit. k: [tipificación 3 Gravísima](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-14/articulo-reproducido-34-quater/letra-k.md).
+- Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 14, art. 35 reproducido de Ley 19.628, lit. c: [sanción máxima general](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-14/articulo-reproducido-35/letra-c.md).
+
+- Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 15 ter reproducido de Ley 19.628, inc. 1: [principal](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-15-ter/inciso-01.md).
+- Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 15 ter reproducido de Ley 19.628, inc. 2: [exigencia siempre en casos listados](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-15-ter/inciso-02.md).
+- Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 15 ter reproducido de Ley 19.628, lit. a: [supuesto siempre exigido](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-15-ter/letra-a.md).
+- Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 15 ter reproducido de Ley 19.628, lit. b: [supuesto siempre exigido](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-15-ter/letra-b.md).
+- Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 15 ter reproducido de Ley 19.628, lit. c: [supuesto siempre exigido](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-15-ter/letra-c.md).
+- Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 15 ter reproducido de Ley 19.628, lit. d: [supuesto siempre exigido](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-15-ter/letra-d.md).
+- Ley 21.719 modificatoria, versión diferida 01-12-2026, Art. primero, num. 8, art. 15 ter reproducido de Ley 19.628, inc. 3: [delegación de orientaciones mínimas](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-08/articulo-reproducido-15-ter/inciso-03.md).
+
+
+## Sanción
+
+La letra k tipifica de modo expreso incumplir la obligación del art. 15 ter en los casos que corresponda. [Art. 34-quater letra k](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-14/articulo-reproducido-34-quater/letra-k.md) tipifica la conducta como `3 Gravísima`. El [art. 35 letra c](../../../../Fragmentador-de-Fuentes/Fuentes/Ley-21719-version-diferida-2026-12-01/articulo-primero/numeral-14/articulo-reproducido-35/letra-c.md) prevé, en el régimen general, multa de hasta 20.000 UTM. El art. 44 establece escala especial para infracciones de órganos públicos; su aplicación requiere el supuesto institucional propio.
